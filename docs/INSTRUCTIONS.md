@@ -29,7 +29,7 @@ Waarom zou je dit doen? Omdat je oefent met veel verschillende layouts en versch
 
 Omdat deze deeltaak bestaat uit 18 kleine opdrachten doorloop je telkens de development lifecycle. Misschien had je al vaker het idee dat je dit telkens in het klein doet bij elke grotere opdracht, als je een probleem oplost.
 
-Voor elke layout die je uit gaat werken, gelden onderstaande stappen. Werk in eerste instantie alle basic layouts uit, en ga door met de advanced layouts als je nog zin hebt in een uitdaging.
+Werk in eerste instantie alle 9 basic layouts uit, en ga door met de advanced layouts als je nog zin hebt in een uitdaging. Voor elke layout die je uit gaat werken, gelden onderstaande stappen, die je dus meerdere keren doorloopt.
 
 
 ### Analyseren
@@ -40,7 +40,7 @@ Kies een layout die je gaat maken. Onderzoek kort welke Layout Mode hiervoor ges
 
 1. Maak een nieuw issue aan op jouw geforkte repo, met daarin de naam en het nummer van de layout die je gaat maken.
 2. Schrijf alvast wat hints over de Layout Mode die je gaat gebruiken, en links naar bronnen die je nodig gaat hebben in de beschrijving van je issue.
-3. Ga door naar Ontwerpen.
+3. Ga door naar de stappen bij “Ontwerpen” hieronder.
 
 #### Hints
 
@@ -89,7 +89,7 @@ Maak een snelle breakdown schets van de CSS, welke je gebruikt om de layout te i
 2. Teken de layout na op papier en zet er wat annotaties bij over hoe je de vlakverdeling met CSS kunt bereiken. 
 3. Voor Grid Layout: teken de grid lines met een afwijkende kleur over de layout heen.
 4. Voeg je schets toe als reactie op het issue dat je net hebt aangemaakt.
-5. Ga door naar Bouwen.
+5. Ga door naar de stappen bij “Bouwen”.
 
 
 ### Bouwen
@@ -102,7 +102,7 @@ Implementeer de layout in het betreffende HTML bestand dat al voor je klaar staa
 2. Gebruik voor Grid Layout en Flexible Box Layout de inspector tools in je devtools. Zie de bronnen hieronder voor meer informatie.
 3. Vraag regelmatig om feedback of hulp, en overleg met medestudenten.
 4. Check doorlopend jouw aanpassingen in de browser (baby-steps approach), totdat je tevreden bent. De layouts hoeven uiteraard niet pixel-perfect nagemaak te worden.
-5. Ga door naar Integreren.
+5. Ga door naar de stappen bij “Integreren”.
 
 #### Bronnen
 
@@ -120,7 +120,7 @@ Voer een commit uit op jouw GitHub repository met de layout die je zojuist geïm
 
 1. Voer in GitHub een commit message in, gebruik de naam van de layout die je zojuist geïmplementeerd hebt, en noem het nummer van het issue waar je aan werkt.
 2. Push je code naar GitHub.
-3. Ga door naar Testen.
+3. Ga door naar de stappen bij “Testen”.
 
 
 ### Testen
