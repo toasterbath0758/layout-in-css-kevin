@@ -57,13 +57,13 @@ Kies een layout die je gaat maken. Onderzoek kort welke Layout Mode hiervoor ges
 Voor de advanced layouts kun je deze hints gebruiken:
 
 - Advanced layout 1: Multi-column Layout of Masonry Layout (experimenteel)
-- Advanced layout 2: Grid Layout + Transforms
+- Advanced layout 2: Grid Layout + rotate transforms
 - Advanced layout 3: Grid Layout
-- Advanced layout 4: Grid Layout + clip-path
+- Advanced layout 4: Grid Layout + skew transforms of clip-path
 - Advanced layout 5: Grid Layout
 - Advanced layout 6: Grid Layout of Positioned Layout
-- Advanced layout 7: Grid Layout of Positioned Layout + Transforms
-- Advanced layout 8: Positioned Layout
+- Advanced layout 7: Grid Layout of Positioned Layout + rotate transforms
+- Advanced layout 8: Positioned Layout + rotate transforms
 - Advanced layout 9: Grid Layout + border-radius of clip-path
 
 #### Bronnen
