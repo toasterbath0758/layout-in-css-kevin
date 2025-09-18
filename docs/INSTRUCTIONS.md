@@ -75,6 +75,7 @@ Voor de advanced layouts kun je deze hints gebruiken:
 - [A Complete Guide to Flexbox @ CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flow Layout @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flow_layout)
 - [Floats @ MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+- Advanced deep dive: [The Fundamentals of CSS Alignment](https://css-tip.com/explore/alignment/)
 - [CSS challenge 1: Grid, door Sanne](https://github.com/fdnd-task/css-challenges/blob/main/docs/challenge_grid.md)
 - [CSS challenge 4: Flexbox, door Sanne](https://github.com/fdnd-task/css-challenges/blob/main/docs/challenge_flexbox.md)
 
