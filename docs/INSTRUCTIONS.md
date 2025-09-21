@@ -119,7 +119,7 @@ Voer een commit uit op jouw GitHub repository met de layout die je zojuist geïm
 
 #### Aanpak
 
-1. Voer in GitHub een commit message in, gebruik de naam van de layout die je zojuist geïmplementeerd hebt, en noem het nummer van het issue waar je aan werkt.
+1. Voer in GitHub een commit message in, gebruik de naam van de layout die je zojuist geïmplementeerd hebt, en noem het nummer van het issue waar je aan werkt, bijvoorbeeld “Basic Layout 3, #3”.
 2. Push je code naar GitHub.
 3. Ga door naar de stappen bij “Testen”.
 
@@ -142,6 +142,5 @@ Ga hierna opnieuw door al deze stappen heen met een volgende layout.
 
 Deze opdracht is done als:
 
-- [ ] De 9 basis layouts zijn voltooid aan de hand van bovenstaande stappen.
-- [ ] Alle breakdown schetsen voor de layouts in je issues zijn opgenomen.
-- [ ] Al je werk is te bekijken via GitHub pages.
+- [ ] Je hebt de 9 basis layouts stap voor stap voltooid, en je voortgang en breakdown schetsen zijn in issues opgenomen.
+- [ ] Optioneel: Je hebt enkele of alle advanced layouts stap voor stap voltooid, en je voortgang en breakdown schetsen zijn in issues opgenomen.
