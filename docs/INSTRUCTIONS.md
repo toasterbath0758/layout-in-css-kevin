@@ -7,11 +7,11 @@ Een oefening in Layout Modes met CSS. Fork deze deeltaak, en ga aan de slag.
 
 Deze leertaak hoort bij Sprint 2 The Client. Dit is een deeltaak die je individueel uitvoert en waarmee je bewijslast verzamelt.
 
-_In het college _S02W02 Flow en Layout_ wordt verteld over Layout Modes in CSS. Deze deeltaak behandelt verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts._
+_In het college _S02W02 Flow en Layout_ wordt verteld over _Layout Modes_ in CSS. Deze deeltaak behandelt verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts._
 
-CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een layout. Elke manier heeft eigen voor- en nadelen, en het is goed om de verschillende methodes je eigen te maken. Layout modes zijn ook te combineren, waardoor je verschillende ontwerpproblemen kunt oplossen.
+CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een layout. Elke manier heeft eigen voor- en nadelen, en het is goed om de verschillende methodes je eigen te maken. Layout Modes zijn ook te combineren, waardoor je verschillende ontwerpproblemen kunt oplossen.
 
-Nadat je gestructureerde HTML hebt gemaakt, kun je elk onderdeel van een pagina of component van layout voorzien. En gecombineerd met media queries kun je responsive layouts maken.
+Nadat je gestructureerde HTML hebt gemaakt, kun je elk onderdeel van een pagina of component van layout voorzien. En gecombineerd met media queries kun je _Responsive Layouts_ maken.
 
 
 ## Doel van deze opdracht
@@ -27,14 +27,14 @@ Waarom zou je dit doen? Omdat je oefent met veel verschillende layouts en versch
 
 ## Werkwijze
 
-Omdat deze deeltaak bestaat uit 18 kleine opdrachten doorloop je telkens de development lifecycle. Misschien had je al vaker het idee dat je dit telkens in het klein doet bij elke grotere opdracht, als je een probleem oplost.
+Omdat deze deeltaak bestaat uit 18 kleine opdrachten, doorloop je telkens de _development lifecycle_. Misschien had je al vaker het idee dat je dit telkens in het klein doet bij elke grotere opdracht, als je een probleem oplost.
 
-Werk in eerste instantie alle 9 basic layouts uit, en ga door met de advanced layouts als je nog zin hebt in een uitdaging. Voor elke layout die je uit gaat werken, gelden onderstaande stappen, die je dus meerdere keren doorloopt.
+In eerste instantie ga je alle 9 basic layouts uitwerken. De volgorde mag je zelf bepalen. Daarna kun je doorgaan met de advanced layouts, als je nog zin hebt in een uitdaging. Voor elke layout die je uit gaat werken, gelden onderstaande stappen, die je dus meerdere keren doorloopt.
 
 
 ### Analyseren
 
-Kies een layout die je gaat maken. Onderzoek kort welke Layout Mode hiervoor geschikt is. Hieronder staat een lijst met hints die je zou kunnen gebruiken.
+Je kiest eerst een layout die je gaat maken. De volgorde mag je dus zelf bepalen. Je gaat kort onderzoeken welke _Layout Mode_ hiervoor geschikt is. Hieronder staat een lijst met hints die je zou kunnen gebruiken.
 
 #### Aanpak
 
@@ -82,20 +82,21 @@ Voor de advanced layouts kun je deze hints gebruiken:
 
 ### Ontwerpen
 
-Maak een snelle breakdown schets van de CSS, welke je gebruikt om de layout te implementeren.
+Je gaat eerst een snelle breakdown schets maken, welke je gebruikt om de layout te implementeren. De HTML krijg je al van ons, dus het gaat om een breakdown van de CSS.
 
 #### Aanpak
 
 1. Onderzoek met behulp van bovenstaande bronnen en hints hoe je de layout zou kunnen maken in CSS, en welke eigenschappen van die Layout Mode je hiervoor nodig gaat hebben.
 2. Teken de layout na op papier en zet er wat annotaties bij over hoe je de vlakverdeling met CSS kunt bereiken. 
-3. Voor Grid Layout: teken de grid lines met een afwijkende kleur over de layout heen.
+3. Voor Grid Layout: teken de _grid lines_ met een afwijkende kleur over de layout heen, en bepaal bijvoorbeeld de _fractions_
 4. Voeg je schets toe als reactie op het issue dat je net hebt aangemaakt.
 5. Ga door naar de stappen bij “Bouwen”.
 
+![Breakdown schets van twee grid layouts](breakdown-1.jpg) ![Breakdown schets van een flexbox in een grid layout](breakdown-2.jpg)
 
 ### Bouwen
 
-Implementeer de layout in het betreffende HTML bestand dat al voor je klaar staat.
+Vervolgens ga je de layout in het betreffende HTML bestand dat al voor je klaar staat uitwerken.
 
 #### Aanpak
 
@@ -115,18 +116,18 @@ Implementeer de layout in het betreffende HTML bestand dat al voor je klaar staa
 
 ### Integreren
 
-Voer een commit uit op jouw GitHub repository met de layout die je zojuist geïmplementeerd hebt. Op deze manier kan je altijd terug naar een versie waarvan je weet dat alles in orde was.
+Hierna ga je een commit uitvoeren op jouw GitHub repository, met de layout die je zojuist geïmplementeerd hebt. Op deze manier kan je altijd terug naar een versie waarvan je weet dat alles in orde was.
 
 #### Aanpak
 
-1. Voer in GitHub een commit message in, gebruik de naam van de layout die je zojuist geïmplementeerd hebt, en noem het nummer van het issue waar je aan werkt, bijvoorbeeld “Basic Layout 3, #3”.
+1. Voer in GitHub een commit message in, gebruik de naam van de layout die je zojuist geïmplementeerd hebt, en noem het nummer van het issue waar je aan werkt, bijvoorbeeld “Basic Layout 5, #3”.
 2. Push je code naar GitHub.
 3. Ga door naar de stappen bij “Testen”.
 
 
 ### Testen
 
-Test in een browser of de versie die je net online gezet hebt ook via GitHub Pages werkt.
+Als laatste stap test je altijd in een browser of de versie die je net online gezet hebt ook via GitHub Pages werkt.
 
 #### Aanpak
 
@@ -135,7 +136,7 @@ Test in een browser of de versie die je net online gezet hebt ook via GitHub Pag
 3. Vergelijk jouw implementatie even met een klasgenoot.
 4. Als je iets nieuws hebt gebruikt voor deze layout, beschrijf dit dan in je Learning Journal.
 
-Ga hierna opnieuw door al deze stappen heen met een volgende layout.
+Ga hierna [opnieuw door al deze stappen](#analyseren) heen met een volgende layout.
 
 
 ## Definition of Done
