@@ -92,7 +92,7 @@ Je gaat eerst een snelle breakdown schets maken, welke je gebruikt om de layout 
 4. Voeg je schets toe als reactie op het issue dat je net hebt aangemaakt.
 5. Ga door naar de stappen bij “Bouwen”.
 
-<img alt="Breakdown schets van twee grid layouts" src="breakdown-1.jpg" width="400"> <img alt="Breakdown schets van een flexbox in een grid layout" src="breakdown-2.jpg" width="250">
+<img alt="Breakdown schets van twee grid layouts" src="breakdown-1.jpg" width="400"> <img alt="Breakdown schets van een flexbox in een grid layout" src="breakdown-2.jpg" width="331">
 
 ### Bouwen
 
